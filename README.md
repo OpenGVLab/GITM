@@ -29,6 +29,7 @@ This research shows the potential of LLMs in developing capable agents for handl
 </div>
 
 # 🤖 Demo Video
+Due to size limit of github, the video is played at 2x speed, and the part of finding ores is played at 10x speed.
 
 **Obtain Enchanted Book** 
 
