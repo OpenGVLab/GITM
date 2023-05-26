@@ -3,7 +3,7 @@
  
  <img width="300" alt="image" src="figs/logo.png">
 
-[[Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
+[[Arxiv Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
 
 </div>
 
@@ -13,19 +13,20 @@ Minecraft, as the world's best-selling game, boasts over 238 million copies sold
 
 - **Broad task coverage.** All previous agents combined can only achieve 30% completion rate of all items in the Minecraft Overworld technology tree, while GITM is able to unlock 100% of them.
 
-- **High success rate.** GITM achieves 67.5% success rate on the "ObtainDiamond" task, improving the SOTA by +47.5%.
+- **High success rate.** GITM achieves 67.5% success rate on the "ObtainDiamond" task, improving the SOTA (OpenAI's VPT) by +47.5%.
 
-- **Excellent training efficiency.** VPT needs to be trained for 6,480 GPU days, Dreamer v3 needs to be trained for 17 GPU days, while our GITM does not need any GPUs and can be trained in 2 days using only a single CPU node with 32 CPU cores.
+- **Excellent training efficiency.** OpenAI's VPT needs to be trained for 6,480 GPU days, DeepMind's DreamerV3 needs to be trained for 17 GPU days, while our GITM does not need any GPUs and can be trained in 2 days using only a single CPU node with 32 CPU cores.
 
 This research shows the potential of LLMs in developing capable agents for handling long-horizon, complex tasks and adapting to uncertainties in open-world environments.
 
 <div align="center">
  
-  ![Alt Text](figs/different_items.gif)
+ <img src="figs/different_items.gif" alt="Alt Text" width="700">
  
+ GITM can handle various biomes, environments, day and night scenes, and even encounter monsters with ease.
+
  <img width="800" alt="image" src="figs/fig1.png">
 </div>
- 
 
 # 🤖 Demo Video
 
@@ -89,7 +90,7 @@ GITM achieves non-zero success rates for all items which indicates a strong coll
 <img width="600" alt="image" src="figs/learning_efficiency.png">
  </div>
 
-GITM only requires a single CPU node with 32 cores for training. Compared with 6,480 GPU days of VPT and 17 GPU days of DreamerV3, GITM improves the efficiency by at least 10,000 times.
+GITM only requires a single CPU node with 32 cores for training. Compared with 6,480 GPU days of OpenAI's VPT and 17 GPU days of DeepMind's DreamerV3, GITM improves the efficiency by at least 10,000 times.
 
 
 # 🖊️ Citation
