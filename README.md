@@ -3,7 +3,7 @@
  
  <img width="300" alt="image" src="figs/logo.png">
 
-[[Paper]](https://github.com/OpenGVLab/GITM/GITM.pdf)
+[[Paper]]([https://github.com/OpenGVLab/GITM/GITM.pdf](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf))
 
 </div>
 
@@ -31,7 +31,7 @@ This research shows the potential of LLMs in developing capable agents for handl
 
 **Obtain Enchanted Book** 
 
-TODO
+https://github.com/OpenGVLab/GITM/assets/39956983/a3fb6ca7-aed5-4e16-821d-0b0284704ffd
 
 The enchanted book is the ultimate creation in the technology tree of Minecraft Overworld. 
 
@@ -39,7 +39,7 @@ Watch high-definition video on [YouTube](https://youtu.be/qDdd3qp41zo).
 
 **Obtain Diamond**
 
-TODO
+https://github.com/OpenGVLab/GITM/assets/39956983/40b43d92-7113-4497-a577-acb81603bf4e
 
 Watch high-definition video on [YouTube](https://youtu.be/r0NRjLsOXvw).
 
