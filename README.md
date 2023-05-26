@@ -3,7 +3,7 @@
  
  <img width="300" alt="image" src="figs/logo.png">
 
-[[Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
+[[Preprint Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
 
 </div>
 
@@ -102,5 +102,6 @@ If you find this project useful in your research, please consider cite:
   title={Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory},
   author={Zhu, Xizhou and Chen, Yuntao and Tian, Hao and Tao, Chenxin and Su, Weijie and Yang, Chenyu and Huang, Gao and Li, Bin and Lu, Lewei and Wang, Xiaogang and Qiao, Yu and Zhang, Zhaoxiang and Dai, Jifeng},
   year={2023}
+  journal={hal-04107105 , version 1},
 }
 ```
