@@ -3,7 +3,7 @@
  
  <img width="300" alt="image" src="figs/logo.png">
 
-[[Arxiv Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
+[[Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
 
 </div>
 
