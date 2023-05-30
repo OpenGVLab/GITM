@@ -3,7 +3,7 @@
  
  <img width="300" alt="image" src="figs/logo.png">
 
-[[Preprint Paper]](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf)
+[[Arxiv Paper]]([https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf](https://arxiv.org/abs/2305.17144))
 
 </div>
 
