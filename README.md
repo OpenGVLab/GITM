@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory </h1>
+ <h1> Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory </h1>
  
  <img width="300" alt="image" src="figs/logo.png">
 
