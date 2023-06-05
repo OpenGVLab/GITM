@@ -100,7 +100,7 @@ If you find this project useful in your research, please consider cite:
 
 ```
 @article{zhu2023ghost,
-  title={Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory},
+  title={Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory},
   author={Zhu, Xizhou and Chen, Yuntao and Tian, Hao and Tao, Chenxin and Su, Weijie and Yang, Chenyu and Huang, Gao and Li, Bin and Lu, Lewei and Wang, Xiaogang and Qiao, Yu and Zhang, Zhaoxiang and Dai, Jifeng},
   journal={arXiv preprint arXiv:2305.17144},
   year={2023}
